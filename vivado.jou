@@ -1,0 +1,14 @@
+#-----------------------------------------------------------
+# Vivado v2020.2 (64-bit)
+# SW Build 3064766 on Wed Nov 18 09:12:45 MST 2020
+# IP Build 3064653 on Wed Nov 18 14:17:31 MST 2020
+# Start of session at: Wed Mar 27 19:26:18 2024
+# Process ID: 6088
+# Current directory: D:/VivadoLibrary/Semafor
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent84 D:\VivadoLibrary\Semafor\Semafor.xpr
+# Log file: D:/VivadoLibrary/Semafor/vivado.log
+# Journal file: D:/VivadoLibrary/Semafor\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project D:/VivadoLibrary/Semafor/Semafor.xpr
+update_compile_order -fileset sources_1
